@@ -2,7 +2,7 @@
 
 I'm from Romania and I'm a junior back-end developer with experience in designing and implementing software solutions. Focused on Javascript / Typescript but not limited to that, always eager to learn and improve my skills.  
 
-[![Linkedin Badge](https://img.shields.io/badge/-Bujor_Iosif-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iosif-bujor-89465753//)](https://www.linkedin.com/in/alindavidc/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Alin_David-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alindavidc/)](https://www.linkedin.com/in/alindavidc/) 
 [![Gmail Badge](https://img.shields.io/badge/-alin.constantin1695@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alin.constantin1695@gmail.com)](mailto:alin.constantin1695@gmail.com)
 
 ## 🧰 Toolbox
