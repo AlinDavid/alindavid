@@ -21,6 +21,6 @@ I'm from Romania and I'm a junior back-end developer with experience in designin
 
 
 
-#### 🌎Interested in remote work!
+#### 🌎Interested in remote or office-based work / projects!
 
 #### 📬Feel free to drop me a message at alin.constantin1695@gmail.com
